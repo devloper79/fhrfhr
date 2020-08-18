@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import time
 prefix = "_"
-bot = commands.Bot(command_prefix=prefix)
+bot = commands.Bot(command_prefix=#send)
 bot.remove_command('help')
 
 
