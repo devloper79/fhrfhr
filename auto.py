@@ -63,7 +63,7 @@ async def f_error(ctx,error):
     if isinstance(error,commands.CheckFailure):
     	embed=discord.Embed(title="Discord DM",description="**LoL you not have enough permission `Aditya`to use this command** :joy: ",colour=0x142c9c)
     	embed.set_image(url="https://cdn.discordapp.com/attachments/539066238870224903/606135147913543693/Tw_1-1-1.gif")
-    	embed.set_footer(text="</> with 💖 ADITYA💗🤗")
+    	embed.set_footer(text="</> with 💖 saini saab💗🤗")
     	await ctx.send(embed=embed)
     if isinstance(error,commands.MissingRequiredArgument):
     	await ctx.send(f"Please say a message to send!")
