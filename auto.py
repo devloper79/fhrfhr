@@ -69,4 +69,4 @@ async def f_error(ctx,error):
     	await ctx.send(f"Please say a message to send!")
 
 		
-bot.run("```NzIyNDc5ODMwMjQ3MDE0NTEx.XzOtgQ.-4i3X0XgJQN8S44KBAZs_SojIZ0```")  # Where 'TOKEN' is 
+bot.run("```H6EMOLpSD9iY83cmae8s_bncENJNYg2q```")  # Where 'TOKEN' is 
