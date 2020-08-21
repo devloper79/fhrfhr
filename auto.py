@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 import asyncio
 import time
-prefix = "_"
-bot = commands.Bot(command_prefix=#send)
+prefix = ":"
+bot = commands.Bot(command_prefix=send)
 bot.remove_command('help')
 
 
@@ -13,7 +13,7 @@ async def on_ready():
     print(bot.user.name)
     print('Online')
     print('started.......')
-    print('Created with 💖 ADITYA💗🤗')
+    print('Created with 💖 Daman💗🤗')
  #   while True:
     #	await bot.change_presence(status=discord.Status.invisible)
 
